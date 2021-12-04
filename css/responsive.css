@@ -239,6 +239,15 @@
   .first-sect-left-block {
     margin-top: 110px;
   }
+  /* forst-section */
+  .left-image{
+    height: 388px;
+  }
+  .image-context{
+    top: 91px;
+    left:24px;
+    right: 24px;
+  }
   /* footer */
   footer {
     height: 100%;
